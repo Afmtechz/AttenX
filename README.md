@@ -7,6 +7,7 @@ AttenX is an offline Android attendance tracker built for students who want to s
 ---
 
 ## Screenshots
+| <img src="screenshots/AttenX1.jpeg" width="250"> | <img src="screenshots/AttenX2.jpeg" width="250"> |
 
 | Dashboard | Schedule | Setup |
 |-----------|----------|-------|
